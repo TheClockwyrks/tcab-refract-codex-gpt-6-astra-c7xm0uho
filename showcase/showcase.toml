@@ -1,0 +1,11 @@
+[[media]]
+file = "trace.json.gz"
+name = "Three channels, one connected picture"
+
+[[media]]
+file = "spectrum.png"
+name = "A full spectrum of light"
+
+[[media]]
+file = "title.png"
+name = "Draw the light"
